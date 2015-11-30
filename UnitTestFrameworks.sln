@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestFrameworks.XUnit", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestFrameworks.NUnit2", "UnitTestFrameworks.NUnit2\UnitTestFrameworks.NUnit2.csproj", "{A9C60748-CA12-4F4D-9CDE-96736848FA81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestFrameworks.NUnit", "UnitTestFrameworks.NUnit\UnitTestFrameworks.NUnit.csproj", "{44E512B3-533A-406C-8374-9F9D1EC5422C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,10 +33,6 @@ Global
 		{A9C60748-CA12-4F4D-9CDE-96736848FA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9C60748-CA12-4F4D-9CDE-96736848FA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9C60748-CA12-4F4D-9CDE-96736848FA81}.Release|Any CPU.Build.0 = Release|Any CPU
-		{44E512B3-533A-406C-8374-9F9D1EC5422C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{44E512B3-533A-406C-8374-9F9D1EC5422C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{44E512B3-533A-406C-8374-9F9D1EC5422C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{44E512B3-533A-406C-8374-9F9D1EC5422C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
